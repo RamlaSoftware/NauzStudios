@@ -1,0 +1,18 @@
+{
+  "name": "caida",
+  "version": "1.0.0",
+  "description": "Se crea una imagen de trabajo actual",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ramla Pro. Software",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.14.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  }
+}
